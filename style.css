@@ -1,7 +1,8 @@
 body{
     color: #fff;
     background-color: black !important;
-    font-size: 1.5em;
+    font-size: 2.5em;
+
 }
 html {
     scroll-behavior: smooth;
