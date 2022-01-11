@@ -6,7 +6,9 @@ body{
 html {
     scroll-behavior: smooth;
 }
-
+.menu{
+    width: 100%;
+}
 h3 {
   text-align: center;
 }
