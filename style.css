@@ -2,6 +2,8 @@ body{
     color: #fff;
     background-color: black !important;
     font-size: 1.5em;
+    margin: 0 auto;
+    max-width: 1200px;
 }
 html {
     scroll-behavior: smooth;
